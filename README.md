@@ -27,7 +27,7 @@ Foram usados as seguintes tecnologias:
 
 Para os programas propostos dos exercícios não existe necessidade de instalação de sistemas especiais, somente do Java JRE para o referido sistema operacional, e através do próprio prompt de comando, ou através do próprio Netbeans. 
 Alguns microcomputadores podem eventualmente ser necessário o uso de um parâmetro executável no comando precedendo o arquivo:
-Prompt de comando: java -jar AnagramaSubstring-1.jar
+Prompt de comando:  "java -jar AnagramaSubstring-1.jar"
 
 
 
